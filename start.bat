@@ -1,1 +1,1 @@
-python payments.py
+python main.py
